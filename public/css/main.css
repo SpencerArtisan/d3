@@ -1,0 +1,26 @@
+div.bar {
+  display: inline-block;
+  width: 20px;
+  height: 75px;   /* We'll override this later */
+  background-color: teal;
+  margin-right: 2px;
+}
+circle.theme {
+  fill: yellow;
+  stroke: orange;
+}
+text.theme {
+  font-size: 30px;
+  fill: orange;
+}
+circle.link {
+  fill: orange;
+  stroke: grey;
+}
+text.link {
+  font-size: 13px;
+  fill: grey;
+}
+line {
+  stroke: grey
+}
